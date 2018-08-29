@@ -4,7 +4,7 @@ Lab 1 Worksheet
 
 2^11th - 1 = 2047 
 
-small -2048
+-2^11th = -2048
 
 2. Think about possible values and their range, say what type of variable would be suitable for the following, and suggest a name for it too. 
 
@@ -20,17 +20,17 @@ variable is bookPages
 
 (ii) The number of atoms in a book; 
 
-type is long 
+type is long
 variable is numberAtoms
 
 (iii) The length of a side of a triangle in inches; 
 
-type is float or double 
+type is int or float
 variable is lengthTriangle
 
 (iv) Your name; 
 
-type is char
+type is string composed of char 
 variable is myName
 
 (v) Whether or not a nucleus has decayed; 
